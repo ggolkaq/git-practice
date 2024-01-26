@@ -15,3 +15,4 @@ members:
 - Test_Rebase1
 - Test_Rebase2
 - Test_Merge1
+- Test
